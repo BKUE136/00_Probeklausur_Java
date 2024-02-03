@@ -21,8 +21,8 @@ Antwort:
 2. public setter in klasse wird von außerhalb gecalled
 
 # Aufgabe 8 (5 Punkte)
-# Deklarieren Sie die in o.g. Klassendiagramm angegebenen Attribute - beachten Sie dabei
-# den Datentyp & die Sichtbarkeit der jeweiligen Instanzvariablen.
+Deklarieren Sie die in o.g. Klassendiagramm angegebenen Attribute - beachten Sie dabei
+den Datentyp & die Sichtbarkeit der jeweiligen Instanzvariablen.
 Antwort:
 protected int counter;
 protected int age;

@@ -4,8 +4,7 @@
 # Sie sehen folgenden Stub-Code einer Java-Klasse:
 // *public class TestClass extends SuperClass1 extends SuperClass2 { ….. }*
 # Der Code kompiliert nicht. Warum?
-Vererbung aus der Superclass kann seriell erfolgen, jedoch ist mehrfach Vererbung aus 2 Superclasses in ein Subclass ist nicht möglich.
-
+Vererbung aus der Superclass kann seriell erfolgen, jedoch ist mehrfach Vererbung aus 2 Superclasses in eine Subclass nicht möglich.
 
 # Aufgabe 6 (4 Punkte)
 # Aus einer Methode in einer Klasseninstanz geben Sie die Variable this aus.

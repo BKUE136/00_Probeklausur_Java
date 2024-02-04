@@ -12,7 +12,7 @@ public class App {
         output(test1.getAge());
         output(test1.getFamilyName());
         output(test1.getFirstName());
-        output(test1.getStatus());
+        output(test1.isStatus());
 
     }
     
